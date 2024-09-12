@@ -59,3 +59,18 @@ do {
     i++;
 } while (i<=10);
 
+
+
+{/* <script>
+    let play;
+    do {
+        let getnumber;
+        let rendomno = Math.floor(Math.random() * 10)
+        do {
+            getnumber=prompt("Enter numbar")
+            console.log(rendomno)
+        } while (getnumber !== rendomno);
+        alert("you won the game")
+        play = prompt("play again yes or no").toLowerCase;
+    } while (play == "yes");
+</script> */}
